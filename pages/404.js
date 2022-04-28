@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        IT Consultant & Software Developer - Connecting the DEV Community in the APAC & LATAM regions | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        Software Engineer + IT Consultant + Community Strategy as a Service | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
@@ -60,23 +60,24 @@ function Chris() {
 
         <div className={styles.grid}> 
           <div>
-          <h2>My journey with communities since 2010:{' '} </h2>
-
+          <h2>Connecting the DEV Community in the APAC & LATAM regions since 2010:{' '} </h2>
+          
           <div>
             <p>
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Argentina PHP User Group Co-Founder <br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Co-Founder & Co-Organizer PHP Conference Argentina (Buenos Aires - @phpconferencear)<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer PHP Conference New Zealand (Wellington - php.org.nz)<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer ScaleConf New Zealand (Wellington - @sconfnz)<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a><br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer FullStack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Web Dev Meetup Wellington & Auckland<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Devops Meetup Wellington<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Cloud Native Meetup Auckland, <br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Connecta.DEV (online community)<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Organizer Elastic NZ community<br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Layer5 contributor (Service Meshes community)<br />
+            🧉{' '}Co-Founder Argentina PHP User Group  <br />
+            🧉{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)<br />
+            🧉{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://php.org.nz" target="_blank">php.org.nz</a>)<br />
+            🧉{' '}Founder & Organiser ScaleConf New Zealand (Wellington - <a href="https://twitter.com/sconfnz" target="_blank">@sconfnz</a>)<br />
+            🧉{' '}Founder & Organiser Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a><br />
+            🧉{' '}Founder & Organiser Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
+            🧉{' '}Founder & Organiser FullStack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
+            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Full-Stack-Dev-New-Zealand/" target="_blank">Full Stack Dev New Zealand - Meetup</a><br />
+            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Wellington-Web-Dev/" target="_blank">Web Dev Meetup Wellington</a><br />
+            🧉{' '}Organiser <a href="https://www.meetup.com/aucklandweb/" target="_blank">Web Dev Meetup Auckland</a><br />
+            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Wellington-DevOps-Group/" target="_blank">Devops Meetup Wellington</a><br />
+            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Cloud-Native-Auckland/" target="_blank">Cloud Native Meetup Auckland</a> <br />
+            🧉{' '}Founder & Organiser <a href="https://connecta.dev" target="_blank">Connecta.DEV (online community)</a><br />
+            🧉{' '}Member <a href="https://layer5.io/community/members/chris-mazur" target="_blank">Layer5 contributor (Service Mesh community)</a><br />
             </p>  
           </div>
 
