@@ -20,7 +20,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <code className={styles.code}>GitHub is more than just a place to keep your code. There are features that cover your whole DevOps lifecycle from idea to code and all the way into production. This session will take you through an end-to-end software lifecycle, from planning with Issues, coding in the cloud with Codespaces, mature CI/CD with GitHub Actions, and much more.</code>
+          <code className={styles.code}>GitHub is more than just a place to keep your code. There are features that cover your whole DevOps lifecycle from idea to code and all the way into production. <br /> This session will take you through an end-to-end software lifecycle, from planning with Issues, coding in the cloud with Codespaces, mature CI/CD with GitHub Actions, and much more.</code>
         </p>
 
         <div className={styles.grid}>

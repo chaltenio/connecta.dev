@@ -21,11 +21,11 @@ export default function register() {
 
   return (
     <div>
+      <h2>Damian Brady</h2>
+      
       <h3 className={styles.subtitle}>
-      Damian Brady
+      Senior Developer Advocate at GitHub
       </h3>
-
-      <h2>Senior Developer Advocate at GitHub</h2>
 
       <p className={styles.descriptiontitle}>
         Please register your interest...
