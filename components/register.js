@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import styles from '../styles/Home.module.css'
 
-export default function newsletter() {
+export default function register() {
   const [email, setEmail] = useState("");
   const [state, setState] = useState("IDLE");
   const [errorMessage, setErrorMessage] = useState(null);
