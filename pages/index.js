@@ -7,14 +7,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>mate.dev</title>
+        <title>connecta.dev</title>
         <meta name="description" content="mate.dev community" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to mate.dev!
+          Welcome to connecta.dev!
         </h1>
 
         <p className={styles.description}>
