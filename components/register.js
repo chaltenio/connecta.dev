@@ -21,14 +21,8 @@ export default function register() {
 
   return (
     <div>
-      <h2>Damian Brady</h2>
-      
-      <h3 className={styles.subtitle}>
-      Senior Developer Advocate at GitHub
-      </h3>
-
       <p className={styles.descriptiontitle}>
-        Please register your interest...
+        FREE REGISTRATION
       </p>      
 
       <div className={styles.registerMailchimp}>
@@ -46,7 +40,7 @@ export default function register() {
       )}
 
       {state === "SUCCESS" && (
-        <p className={styles.description}>Thanks! We will be in touch shortly :)</p>
+        <p className={styles.description}>Thank you! We will send you more information soon!</p>
       )}
 
     </div>
