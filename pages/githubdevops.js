@@ -44,11 +44,11 @@ export default function Home() {
 
       <footer className={styles.footer}>      
         <a
-          href="https://twitter.com/connectadev"
+          href="https://connecta.dev/codeofconduct"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @connectadev
+          Code of Conduct
         </a>
         {' '} - {' '}
         <a
@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Join our Discord Channel!
+          Join our Community in Discord!
         </a>
         {' '} - {' '}        
         <a
