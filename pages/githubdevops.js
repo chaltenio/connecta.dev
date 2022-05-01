@@ -25,7 +25,7 @@ export default function Home() {
           <Register />
         </div>
 
-        <p><img src="/banners/banner_600x300.png" alt="Damian Brady - connecta.dev" className={styles.logo} />{" "}chaltenio</p>
+        <p><img src="/banners/banner_600x300.png" alt="Damian Brady - connecta.dev" />{" "}chaltenio</p>
 
         <p className={styles.description}>
           <code className={styles.code}>GitHub is more than just a place to keep your code. There are features that cover your whole DevOps lifecycle from idea to code and all the way into production. <br /> This session will take you through an end-to-end software lifecycle, from planning with Issues, coding in the cloud with Codespaces, mature CI/CD with GitHub Actions, and much more.</code>
@@ -57,7 +57,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Our Discord Channel. Join us!
+          Join our Discord Channel!
         </a>
         {' '} - {' '}        
         <a
