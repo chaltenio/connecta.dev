@@ -26,7 +26,7 @@ export default function newsletter() {
       </h3>
 
       <p className={styles.descriptiontitle}>
-        Please register your interest...
+        Join us!
       </p>      
 
       <div className={styles.registerMailchimp}>
@@ -44,7 +44,7 @@ export default function newsletter() {
       )}
 
       {state === "SUCCESS" && (
-        <p className={styles.description}>Thanks! I'll be in touch shortly :) Chris.-</p>
+        <p className={styles.description}>Thanks! We'll be in touch shortly :) Chris & team.</p>
       )}
 
     </div>

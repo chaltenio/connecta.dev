@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions</code>
+          <code className={styles.code}>Connecta.DEV is an Initiative to connect the Development Community in the Asia-Pacific & Latam Regions.</code>
         </p>
 
         <div className={styles.grid}>
@@ -29,19 +29,27 @@ export default function Home() {
 
       <footer className={styles.footer}>      
         <a
-          href="https://twitter.com/matedotdev"
+          href="https://twitter.com/connectadev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @matedotdev
+          @connectadev
         </a>
         {' '} - {' '}
+        <a
+          href="https://discord.com/invite/xT9cMSy"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Our Discord Channel. Join us!
+        </a>
+        {' '} - {' '}        
         <a
           href="https://mate.dev/chris"
           target="_blank"
           rel="noopener noreferrer"
         >
-         Contact
+         brought to you by
         </a>
       </footer>
     </div>
