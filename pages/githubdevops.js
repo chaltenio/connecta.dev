@@ -25,19 +25,18 @@ export default function Home() {
           <Register />
         </div>
 
-        <p><img src="/banners/banner_600x300.png" alt="Damian Brady - connecta.dev" />{" "}chaltenio</p>
+        <p><img src="/banners/banner_600x300.png" alt="Damian Brady - connecta.dev" />{" "}</p>
 
         <p className={styles.description}>
-          <code className={styles.code}>GitHub is more than just a place to keep your code. There are features that cover your whole DevOps lifecycle from idea to code and all the way into production. <br /> This session will take you through an end-to-end software lifecycle, from planning with Issues, coding in the cloud with Codespaces, mature CI/CD with GitHub Actions, and much more.</code>
+          GitHub is more than just a place to keep your code. There are features that cover your whole DevOps lifecycle from idea to code and all the way into production. <br /> This session will take you through an end-to-end software lifecycle, from planning with Issues, coding in the cloud with Codespaces, mature CI/CD with GitHub Actions, and much more.
         </p>
-      
-        <h2>Damian Brady</h2>
-      
+     
         <h3 className={styles.subtitle}>
-        Senior Developer Advocate at GitHub
+        Damian Brady - Senior Developer Advocate at GitHub
         </h3>
 
-        <p>Damian is a Senior Developer Advocate at GitHub and loves all things DevOps and MLOps. <br />
+        <p  className={styles.description}>
+           Damian is a Senior Developer Advocate at GitHub and loves all things DevOps and MLOps. <br />
            Formerly a Cloud Advocate at Microsoft for 4 years, and prior to that a dev at Octopus Deploy and a Microsoft MVP, Damian has a 20+ year background in software development and consulting in a broad range of industries.
         </p>
 
