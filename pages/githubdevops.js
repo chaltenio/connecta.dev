@@ -64,7 +64,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         brought to you by
+         Brought to you by...
         </a>
       </footer>
     </div>
