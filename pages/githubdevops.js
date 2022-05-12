@@ -22,13 +22,13 @@ export default function Home() {
         </h1>
 
         <div className={styles.grid}>
-        <p>Join Zoom Meeting:</p> <br />
-        <p>https://zoom.us/j/92640688839?pwd=SEt3NTM5OE9LWDV2YTdzWG1hcVJhdz09</p> <br />
+        <p>Join Zoom Meeting:<br /></p> 
+        <p>https://zoom.us/j/92640688839?pwd=SEt3NTM5OE9LWDV2YTdzWG1hcVJhdz09 <br /></p> 
 
-        <p>Meeting ID: 926 4068 8839</p> <br />
-        <p>Passcode: mate.dev</p> <br />
+        <p>Meeting ID: 926 4068 8839 <br /></p> 
+        <p>Passcode: mate.dev</p> 
         </div>
-
+        <br />
         <p><img src="/banners/banner_600x300.png" alt="Damian Brady - connecta.dev" />{" "}</p>
 
         <p className={styles.description}>
