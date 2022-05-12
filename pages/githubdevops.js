@@ -20,11 +20,11 @@ export default function Home() {
         <h1 className={styles.title}>
         End-to-end DevOps in the Cloud with GitHub
         </h1>
+        <br />
+        <h3 className={styles.subtitle}>Join Zoom Meeting:</h3> 
+        <p className={styles.description}>https://zoom.us/j/92640688839?pwd=SEt3NTM5OE9LWDV2YTdzWG1hcVJhdz09</p> 
 
-        <h3 className={styles.subtitle}>Join Zoom Meeting:<br /></h3> 
-        <p className={styles.description}>https://zoom.us/j/92640688839?pwd=SEt3NTM5OE9LWDV2YTdzWG1hcVJhdz09 <br /></p> 
-
-        <p className={styles.description}>Meeting ID: 926 4068 8839 <br /></p> 
+        <p className={styles.description}>Meeting ID: 926 4068 8839</p> 
         <p className={styles.description}>Passcode: mate.dev</p> 
         <br /><br />
 
