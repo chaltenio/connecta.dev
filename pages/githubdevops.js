@@ -21,14 +21,13 @@ export default function Home() {
         End-to-end DevOps in the Cloud with GitHub
         </h1>
 
-        <div className={styles.grid}>
-        <p>Join Zoom Meeting:<br /></p> 
-        <p>https://zoom.us/j/92640688839?pwd=SEt3NTM5OE9LWDV2YTdzWG1hcVJhdz09 <br /></p> 
+        <h3 className={styles.subtitle}>Join Zoom Meeting:<br /></h3> 
+        <p className={styles.description}>https://zoom.us/j/92640688839?pwd=SEt3NTM5OE9LWDV2YTdzWG1hcVJhdz09 <br /></p> 
 
-        <p>Meeting ID: 926 4068 8839 <br /></p> 
-        <p>Passcode: mate.dev</p> 
-        </div>
-        <br />
+        <p className={styles.description}>Meeting ID: 926 4068 8839 <br /></p> 
+        <p className={styles.description}>Passcode: mate.dev</p> 
+        <br /><br />
+
         <p><img src="/banners/banner_600x300.png" alt="Damian Brady - connecta.dev" />{" "}</p>
 
         <p className={styles.description}>
