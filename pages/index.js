@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <code className={styles.code}>Connecta.DEV is an Initiative to connect the Development Community in the Asia-Pacific & Latam Regions.</code>
+          <code className={styles.code}>Connecta.DEV is an Initiative to connect the Development Community in the Asia-Pacific Region</code>
         </p>
 
         <div className={styles.grid}>

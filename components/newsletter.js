@@ -26,7 +26,7 @@ export default function newsletter() {
       </h3>
 
       <p className={styles.descriptiontitle}>
-        Join us!
+        Join us our mailing list to hear about our latest events, news & more!
       </p>      
 
       <div className={styles.registerMailchimp}>
